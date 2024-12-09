@@ -8,7 +8,8 @@ Virtual device already setup (guideline: https://docs.expo.dev/get-started/set-u
 React app running at localhost:3000/quiz-app
 
 ## Install and run
-```https://github.com/suracI-invert/quiz-app-webview.git
+```
+https://github.com/suracI-invert/quiz-app-webview.git
 
 cd quiz-app-webview
 
