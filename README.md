@@ -9,7 +9,7 @@ React app running at localhost:3000/quiz-app
 
 ## Install and run
 ```
-https://github.com/suracI-invert/quiz-app-webview.git
+git clone https://github.com/suracI-invert/quiz-app-webview.git
 
 cd quiz-app-webview
 
